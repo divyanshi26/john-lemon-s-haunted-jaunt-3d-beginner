@@ -3,7 +3,7 @@
 
 A stealth game from Unity's 3D beginner [tutorial](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner). My first :)
 
-![](Haunted-Jaunt-Screenshot.png)
+![](Screenshot.png)
 
 ## How to Install
 Coming soon!
